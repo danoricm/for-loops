@@ -1,0 +1,5 @@
+# forloop.icon
+procedure main()
+    every i := 1 to 5 do
+        write(i)
+end

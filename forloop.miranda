@@ -1,0 +1,2 @@
+|| forloop.miranda
+main = [1..5]

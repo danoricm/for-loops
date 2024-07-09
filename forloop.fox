@@ -1,0 +1,4 @@
+* forloop.fox
+FOR i = 1 TO 5
+    ? i
+ENDFOR

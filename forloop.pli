@@ -1,0 +1,6 @@
+/* forloop.pli */
+DCL I FIXED DECIMAL(5);
+
+DO I = 1 TO 5;
+    PUT LIST(I);
+END;

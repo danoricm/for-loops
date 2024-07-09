@@ -1,0 +1,9 @@
+# forloop.spl
+PROGRAM
+    VAR
+        i : INTEGER;
+    BEGIN
+        FOR i := 1 TO 5 DO
+            WRITELN(i);
+        END FOR;
+    END.
